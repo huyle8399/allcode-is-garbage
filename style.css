@@ -4,7 +4,7 @@ body {
     text-align: center;   
     text-transform: uppercase;
     letter-spacing: .5em;
-    background-image: linear-gradient(to right, red , yellow);
+    background-image: linear-gradient(to right, #ffffff , #ffffff);
 }
 
 h1 {
@@ -14,4 +14,10 @@ h1 {
 
 h3 {
     width: 100%;
+}
+
+button {
+   text-align: center;
+   display: flex;
+   margin: 20px auto;
 }
